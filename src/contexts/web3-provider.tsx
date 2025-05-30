@@ -10,8 +10,8 @@ const projectId = '47aabc4f419dc9750cb9221a8c37077c';
 const metadata = {
   name: 'Trloop Token Admin Panel',
   description: 'Trloop Token Admin Panel',
-  url: 'https://mywebsite.com',
-  icons: ['https://avatars.mywebsite.com/'],
+  url: 'https://trloop-admin-dashboard.vercel.app/',
+  icons: ['https://trloop-admin-dashboard.vercel.app/assests/trloop-logo.png'],
 };
 
 createAppKit({
